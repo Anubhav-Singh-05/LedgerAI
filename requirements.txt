@@ -1,0 +1,7 @@
+streamlit
+google-genai
+sqlalchemy
+psycopg2-binary
+passlib
+bcrypt
+python-dotenv
